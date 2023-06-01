@@ -1,0 +1,1 @@
+Exercises from the book by chapter. Some chapters did not contain exercises which is why some are skipped.
